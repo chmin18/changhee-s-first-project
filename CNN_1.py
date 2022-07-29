@@ -1,3 +1,4 @@
+# 수정됐다 이 부분
 # CNN code from EE488 [Week10]
 import torch
 import torch.nn as nn
